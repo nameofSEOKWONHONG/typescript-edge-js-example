@@ -9,3 +9,5 @@ console.log('typescript', helloWorldText);
 let helloWorldClrText = JString.format('hello {0}',['world']);
 
 console.log('clrmethod', helloWorldClrText);
+
+console.log(helloWorldClrText.substring(0, 5));

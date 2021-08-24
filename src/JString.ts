@@ -23,7 +23,3 @@ export class JString {
         return result;
     }
 }
-// let b = '';
-// const c = JString.format('{0}/{1}', ['a', 'b']);
-
-// console.log(c);

@@ -5,6 +5,7 @@
     "typescript": "^4.3.5"
   },
   "dependencies": {
-    "edge-js": "^16.6.0"
+    "edge-js": "^16.6.0",
+    "sequelize": "^6.6.5"
   }
 }
